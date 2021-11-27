@@ -1,0 +1,15 @@
+C:\Users\Анна\Desktop\EXS\exs002\obj\Debug\net6.0\exs002.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\EXS\exs002\obj\Debug\net6.0\exs002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\EXS\exs002\obj\Debug\net6.0\exs002.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\EXS\exs002\obj\Debug\net6.0\exs002.AssemblyInfo.cs
+C:\Users\Анна\Desktop\EXS\exs002\obj\Debug\net6.0\exs002.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\EXS\exs002\bin\Debug\net6.0\exs002.exe
+C:\Users\Анна\Desktop\EXS\exs002\bin\Debug\net6.0\exs002.deps.json
+C:\Users\Анна\Desktop\EXS\exs002\bin\Debug\net6.0\exs002.runtimeconfig.json
+C:\Users\Анна\Desktop\EXS\exs002\bin\Debug\net6.0\exs002.dll
+C:\Users\Анна\Desktop\EXS\exs002\bin\Debug\net6.0\ref\exs002.dll
+C:\Users\Анна\Desktop\EXS\exs002\bin\Debug\net6.0\exs002.pdb
+C:\Users\Анна\Desktop\EXS\exs002\obj\Debug\net6.0\exs002.dll
+C:\Users\Анна\Desktop\EXS\exs002\obj\Debug\net6.0\ref\exs002.dll
+C:\Users\Анна\Desktop\EXS\exs002\obj\Debug\net6.0\exs002.pdb
+C:\Users\Анна\Desktop\EXS\exs002\obj\Debug\net6.0\exs002.genruntimeconfig.cache
