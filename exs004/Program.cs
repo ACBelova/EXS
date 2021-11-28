@@ -1,6 +1,6 @@
 ﻿// По заданному номеру дня недели вывести его название
 Console.WriteLine("Введите порядковый номер дня недели ");
-int num = int.Parse(Console.ReadLine());
+int num = Convert.ToInt32(Console.ReadLine());
 
 string[] dayofWeek = {"Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота", "Воскресенье"};
 
