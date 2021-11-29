@@ -1,10 +1,6 @@
-﻿// Удалить вторую цифру трёхзначного числа
+﻿// Удалить вторую цифру трёхзначного числа, *и вывести это число в консоль
+
 Console.WriteLine("Введите трехзначное число ");
 var n = Math.Abs(Convert.ToInt64(Console.ReadLine()));
-        while (n >= 100)
-        {
-            n /= 10;
-        }
-        var r = n % 10;
-        Console.WriteLine("Вторая цифра ");
-        Console.WriteLine(r);
+int y = int.Parse(n.ToString().Remove(1, 1));
+Console.WriteLine(y);
