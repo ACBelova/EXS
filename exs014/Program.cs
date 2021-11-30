@@ -5,4 +5,4 @@ a = Convert.ToInt32(Console.ReadLine());
 if (a % 3 == 0)
 Console.WriteLine("Число {0} кратно 3", a);
    
-else Console.WriteLine("Число {0} не кратно 3", a);
+else Console.WriteLine("остаток {0}", a%3);
