@@ -5,6 +5,5 @@ int sum = 0;
 for (int i = 1; i <= x; i++)
 {
     sum += i;
-    Console.WriteLine("Сумма чисел от " + 1 + " до " + i + ": " + sum);
-
 }
+Console.WriteLine($"сумма чисел от 1 до {x} ровна :" + sum);
