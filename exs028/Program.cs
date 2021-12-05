@@ -1,7 +1,7 @@
 ﻿// Определить количество цифр в числе
 Console.WriteLine("Введите число: ");
 int A = Convert.ToInt32(Console.ReadLine());
-int digits = 0; // кол-во цифр
+int digits = 0; 
 while (A != 0)
 {
   digits++;
