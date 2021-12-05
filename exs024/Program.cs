@@ -6,6 +6,6 @@ int x = Convert.ToInt32(Console.ReadLine());
 
 for (int i = 1; i <= x; i++)
 {
-    Console.WriteLine(i*i);
-}
+    Console.WriteLine($"Квадрат числа {i} = {Math.Pow(i,2)}");
 
+}
