@@ -1,12 +1,11 @@
 ﻿// Показать кубы чисел, заканчивающихся на четную цифру
 
-Console.WriteLine("Введите число: ");
+Console.WriteLine("Введите первое число: ");
 int x = Convert.ToInt32(Console.ReadLine());
-while (x%2==0)
+Console.WriteLine("Введите второе число: ");
+int y = Convert.ToInt32(Console.ReadLine());
+for (int i = x; i <= y; i++)
 {
-  for (int i = 1; i <= x; i++)
-{
-    Console.WriteLine($"Куб числа {i} = {Math.Pow(i,3)}");
+  if (i%2==0) Console.WriteLine($"{Math.Pow(i,3)}");
+}
 
-}
-}
